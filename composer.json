@@ -1,16 +1,20 @@
 {
-    "name": "eduardokum/laravel-boleto",
+    "name": "millennium-software/laravel-boleto",
     "description": "Biblioteca com boletos para o laravel",
     "keywords": [
-        "eduardokum",
+        "millennium-software",
         "laravel-boleto"
     ],
-    "homepage": "https://github.com/eduardokum/laravel-boleto",
+    "homepage": "https://github.com/millennium-software/laravel-boleto",
     "license": "MIT",
     "authors": [
         {
             "name": "Eduardo Gusmão",
             "email": "eduguscontra3@hotmail.com"
+        },
+        {
+            "name": "Rodrigo Oliveria Xavier",
+            "email": "rodrigo.oliveira.xavier151@gmail.com"
         }
     ],
     "require": {
